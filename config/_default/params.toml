@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "classic"
+font = "rose"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -64,7 +64,7 @@ address = "McCain 350, Mississippi State University, MS, 39759, USA"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "mail", icon_pack = "fab", name = "mirhadiseifi@gmail.com", link = "mailto:mirhadiseifi@gmail.com"},
+  {icon = "e-mail", icon_pack = "fab", name = "mirhadiseifi@gmail.com", link = "mailto:mirhadiseifi@gmail.com"},
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "mirhadiseifi_1", link = "skype:mirhadiseifi_1?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
