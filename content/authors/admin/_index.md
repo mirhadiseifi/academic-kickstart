@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mirhadiseifi@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:mirhadiseifi@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2SYqFLoAAAAJ&hl=en&oi=ao
@@ -60,12 +60,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mirhadiseifi@gmail.com"
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-#user_groups:
-#- Researchers
-#- Visitors
-#---
+user_groups:
+- Researchers
+- Visitors
+---
 
