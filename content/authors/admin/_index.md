@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student at Mississippi State University
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Industrial Engineering
+  - course: PhD in Industrial and Systems Engineering
     institution: Mississippi State University
     year: 2020
   - course: MSc in Industrial Engineering
@@ -68,4 +68,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a Ph.D. student in Industrial and Systems Engineering at Mississippi State University. I graduated from the Sharif University of Technology with a Master’s in Industrial Engineering. I am working in Additive Manufacturing lab to develop process-structure modelings of laser based additive manufacturing.
 
