@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student at Additive Manufacturing Lab
+role: PhD student - Additive Manufacturing Lab
 
 # Organizations/Affiliations
 organizations:
