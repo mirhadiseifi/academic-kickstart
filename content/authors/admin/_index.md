@@ -14,11 +14,14 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
+- name: Additive Manufacturing lab
+  url: "http://www.cavs.msstate.edu/research/additive_manufacturing.php"
+organizations:
 - name: Mississippi State University
   url: "msstate.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, data mining and mathematical modeling.
 
 interests:
 - Machine learning
