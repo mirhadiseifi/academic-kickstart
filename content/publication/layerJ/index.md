@@ -1,10 +1,10 @@
 ---
 authors: 
     - Seifi, Seyyed Hadi
-    - Tian, Wenmeng and Doude
-    - Haley and Tschopp
-    - Mark A and 
-    - Bian,Linkan
+    - Tian, Wenmeng
+    - Doude, Haley
+    - Tschopp, Mark A
+    - Bian, Linkan
 title: "Layer-wise modeling and anomaly detection for laser-based additive manufacturing"
 data: "2019"
 publication_type: ["2"]
