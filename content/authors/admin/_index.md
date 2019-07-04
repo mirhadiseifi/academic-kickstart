@@ -10,12 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD student at Additive Manufacturing Lab
 
 # Organizations/Affiliations
-organizations:
-- name: Additive Manufacturing lab
-  url: "http://www.cavs.msstate.edu/research/additive_manufacturing.php"
 organizations:
 - name: Mississippi State University
   url: "msstate.edu"
