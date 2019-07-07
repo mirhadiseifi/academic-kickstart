@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Assistant"
+  company = "Mississippi State University"
+  company_url = "msstate.edu"
+  location = "Mississippi"
+  date_start = "2017-07-11"
+  date_end = "2020-12-05"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Incorporating Novel **Machine Learning** Techniques to Model the Process-Structure Relationship in Laser-Based Additive Manufacturing
+  * Developing **Applications** for Monitoring Additive Manufacturing Processes
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Business Intelligence Analyst and SharePoint Developer"
+  company = "Rafa Group"
+  company_url = "http://www.rafa-group.com/en"
+  location = "Tehran, Iran"
+  date_start = "2015-03-01"
+  date_end = "2017-05-31"
+  description = """
+  Responsibilities include:
+  
+  * Developing a **bf Business Intelligence Dashboard** to Monitor the Status of Key Performance Indicators (KPIs)
+  * Improving the Performance of the Facilities by **Developing Business Processes** to Monitor the Major Workflows Such as Production, Maintenance, Inventory, Human Resources, etc
+  * Developing An Extensive Budget Plan for Each of Subsidiaries Within the Enterprise to Determine the **Break-even Point**
+  
+  """
 
 +++
