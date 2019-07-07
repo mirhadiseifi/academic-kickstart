@@ -29,7 +29,9 @@ publication: "In *Solid Freeform Fabrication 2018: Proceedings of the 29th Annua
 
 featured: false
 
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+links:
+  - name: Link
+  - url: http://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?articleid=2735520
 
 ---
 
