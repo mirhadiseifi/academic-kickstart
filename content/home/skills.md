@@ -23,15 +23,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+ 
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Matlab"
+  
+ [[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "SQL"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics" 
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  name = "Machine Learning" 
 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics" 
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Data Mining" 
+
+  
 +++
