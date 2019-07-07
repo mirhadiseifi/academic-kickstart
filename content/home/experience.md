@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "msstate.edu"
   location = "Mississippi"
   date_start = "2017-07-11"
-  date_end = "2020-12-05"
+  date_end = ""
   description = """
   Responsibilities include:
   
