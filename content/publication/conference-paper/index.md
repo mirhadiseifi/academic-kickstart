@@ -29,9 +29,8 @@ publication: "In *Solid Freeform Fabrication 2018: Proceedings of the 29th Annua
 
 featured: false
 
-links:
-  - name: Link
-  - url: http://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?articleid=2735520
+url_pdf: http://sffsymposium.engr.utexas.edu/sites/default/files/2018/020%20LayerWiseProfileMonitoringofLaserBasedAddit.pdf
+
 
 ---
 
