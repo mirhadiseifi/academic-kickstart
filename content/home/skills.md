@@ -14,8 +14,6 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-hadi 
-
  [[feature]]
   icon = "python"
   icon_pack = "fab"
