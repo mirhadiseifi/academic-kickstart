@@ -31,6 +31,6 @@ featured: false
 
 links:
   - name: Link
-  - url: http://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?articleid=2735520
+    url: http://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?articleid=2735520
 ---
 
