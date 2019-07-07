@@ -29,16 +29,16 @@ interests:
 
 education:
   courses:
-  - course: PhD in Industrial & Systems Engineering
+  - course: **PhD** in Industrial & Systems Engineering
     institution: Mississippi State University
     year: 2020
-  - course: Minor in Computer Science & Engineering
+  - course: **Minor** in Computer Science & Engineering
     institution: Mississippi State University
     year: 2020
-  - course: MSc in Industrial Engineering
+  - course: **MSc** in Industrial Engineering
     institution: Sharif University of Technology
     year: 2017
-  - course: BSc in Artificial Intelligence
+  - course: **BSc** in Artificial Intelligence
     institution: Sharif University of Technology
     year: 2015
 
