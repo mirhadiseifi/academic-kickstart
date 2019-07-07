@@ -81,6 +81,6 @@ user_groups:
 
 I received my BSc and MSc in industrial Engineering from Sharif University of Technology. My enthusiasm and advanced skills in mathematical modeling and programming led me to the additive manufacturing lab under supervision of Dr Linkan Bian. 
 
-Currently, I am a PhD student in additive manufacturing (AM) lab at Mississippi State University. I have been incorporating the machine learning techniques, learned through Minor in Computer Science, in the field of Additive Manufacturing to develop process-structure models. 
+Currently, I am a PhD student in additive manufacturing (AM) lab at Mississippi State University. I have been incorporating machine learning techniques, learned through Minor in Computer Science, in the field of Additive Manufacturing to develop process-structure models. 
 
 
