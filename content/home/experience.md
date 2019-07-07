@@ -47,4 +47,15 @@ date_format = "Jan 2006"
   
   """
 
+[[experience]]
+  title = "Project Manager Intern"
+  company = "Kara-Fan-Pardaz Company"
+  company_url = ""
+  location = "Tehran, Iran"
+  date_start = "2013-06-01"
+  date_end = "2013-07-31"
+  description = """
+  Responsibilities include:
+  * Planning and Procurement of the Project "Designing and Constructing a Monitoring System for Transfer of Oil Products Using Industrial Tomography (ECT)" 
+
 +++
