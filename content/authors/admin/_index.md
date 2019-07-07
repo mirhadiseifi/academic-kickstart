@@ -55,7 +55,7 @@ social:
   link: https://scholar.google.com/citations?user=2SYqFLoAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/mirhadiseifi
+  link: https://github.com/seyyedhadiseifi
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/seyyedhadiseifi
