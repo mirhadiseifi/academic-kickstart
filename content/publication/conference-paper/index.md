@@ -1,7 +1,7 @@
 ---
 title: "Layer-wise Profile Monitoring of Laser-based Additive Manufacturing"
 authors:
-- Seyyed Hadi Seifi
+- "**Seyyed Hadi Seifi**"
 - Wenmeng Tian
 - Haley Doude
 - Mark A Tschopp
