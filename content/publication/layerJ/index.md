@@ -1,7 +1,7 @@
 ---
 title: "Layer-wise modeling and anomaly detection for laser-based additive manufacturing"
 authors:
-- **Seyyed Hadi Seifi**
+- "**Seyyed Hadi Seifi**"
 - Wenmeng Tian
 - Haley Doude
 - Mark A Tschopp
