@@ -32,6 +32,9 @@ education:
   - course: PhD in Industrial Engineering
     institution: Mississippi State University
     year: 2020
+  - course: Minor in Computer Science and Engineering
+    institution: Mississippi State University
+    year: 2020
   - course: MSc in Industrial Engineering
     institution: Sharif University of Technology
     year: 2017
