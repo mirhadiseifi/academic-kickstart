@@ -14,8 +14,8 @@ ce# Navigation Links
 #  weight = 20
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Experiences"
+  url = "#experiences"
   weight = 30
 
 [[main]]
