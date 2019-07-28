@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Industrial and Systems Engineering
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Minor in Computer Science and Engineering
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
