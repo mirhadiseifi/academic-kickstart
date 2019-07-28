@@ -32,5 +32,19 @@ date_format = "Jan 2006"
   * Special Topics: Recommender Systems, Large Scale Machine Learning
   """
   
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Data Science with Python"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-15"
+  date_end = ""
+  description = """
+  * Analyze the connectivity of a social network
+  * Discern whether a data visualization is good or bad
+  * Conduct an inferential statistical analysis
+  * Enhance a data analysis with applied machine learning
+  """
   
 +++
