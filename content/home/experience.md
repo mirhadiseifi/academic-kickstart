@@ -56,8 +56,9 @@ date_format = "Jan 2006"
   date_end = "2013-07-31"
   description = """
   Responsibilities include:
+  
   * Planning and Procurement of the Project "Designing and Constructing a Monitoring System for Transfer of Oil Products Using Industrial Tomography (ECT)" 
-  * a
+  
   """
 
 +++
