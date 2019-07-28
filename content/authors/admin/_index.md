@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Industrial and Systems Engineering
+  - course: PhD in Industrial & Systems Engineering
     institution: Mississippi State University
     year: 2020
-  - course: Minor in Computer Science and Engineering
+  - course: Minor in Computer Science & Engineering
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: MSc and BSc in Industrial Engineering
