@@ -26,6 +26,8 @@ interests:
 - Artificial Intelligence
 - Mathematical Modeling
 
+education:
+  courses:
 
 
 # Social/Academic Networking
