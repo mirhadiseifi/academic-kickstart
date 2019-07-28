@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   date_start = "2019-06-11"
   date_end = "2019-07-15"
   description = """
-  - Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, SVMs
-  - Unsupervised Learning: K-means, PCA, Anomaly Detection
-  - Special Topics: Recommender Systems, Large Scale Machine Learning
+  * Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, SVMs
+  * Unsupervised Learning: K-means, PCA, Anomaly Detection
+  * Special Topics: Recommender Systems, Large Scale Machine Learning
   """
   
   
