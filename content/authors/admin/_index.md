@@ -29,12 +29,12 @@ interests:
 education:
   courses:
   - course: PhD in Industrial and Systems Engineering
-    institution: Stanford University
-    year: 2012
+    institution: Mississippi State University
+    year: 2020
   - course: Minor in Computer Science and Engineering
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: MSc and BSc in Industrial Engineering
     institution: Massachusetts Institute of Technology
     year: 2008
 
