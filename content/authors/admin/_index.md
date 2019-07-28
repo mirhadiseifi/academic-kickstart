@@ -32,11 +32,11 @@ education:
     institution: Mississippi State University
     year: 2020
   - course: Minor in Computer Science & Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: Mississippi State University
+    year: 2020
   - course: MSc and BSc in Industrial Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: mm
+    year: 2017
 
 
 
