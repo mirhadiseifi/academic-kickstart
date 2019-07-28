@@ -28,9 +28,16 @@ interests:
 
 education:
   courses:
-  - course: **PhD** in Industrial \& Systems Engineering
+  - course: **PhD** in Industrial and Systems Engineering
     institution: Mississippi State University
     year: 2020
+  - course: **Minor** in Computer Science and Engineering
+    institution: Mississippi State University
+    year: 2020
+  - course: **MSc and BSc** in Industrial Engineering
+    institution: Sharif University of Technology
+    year: 2017
+
 
 
 
