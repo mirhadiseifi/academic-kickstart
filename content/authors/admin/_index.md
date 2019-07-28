@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: **PhD** in Industrial & Systems Engineering
+    institution: Mississippi State University
+    year: 2020
 
 
 
