@@ -26,10 +26,6 @@ interests:
 - Artificial Intelligence
 - Mathematical Modeling
 
-education:
-  - course: **PhD** in Industrial & Systems Engineering
-    institution: Mississippi State University
-    year: 2020
 
 
 # Social/Academic Networking
