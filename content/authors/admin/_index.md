@@ -35,7 +35,7 @@ education:
     institution: Mississippi State University
     year: 2020
   - course: MSc and BSc in Industrial Engineering
-    institution: mm
+    institution: Sharif University of Technology
     year: 2017
 
 
