@@ -27,13 +27,5 @@ date_format = "Jan 2006"
   date_end = "2019-07-15"
   description = ""
   
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Applied Data Science with Python"
-  url = ""
-  date_start = "2019-07-11"
-  date_end = ""
-  description = ""
   
 +++
