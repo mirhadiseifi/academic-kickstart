@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: **PhD** in Industrial & Systems Engineering
+  - course: **PhD** in Industrial \& Systems Engineering
     institution: Mississippi State University
     year: 2020
 
