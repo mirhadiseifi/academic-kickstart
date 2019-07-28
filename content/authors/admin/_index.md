@@ -27,7 +27,6 @@ interests:
 - Mathematical Modeling
 
 education:
-  courses:
   - course: **PhD** in Industrial & Systems Engineering
     institution: Mississippi State University
     year: 2020
