@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Developing a **bf Business Intelligence Dashboard** to Monitor the Status of Key Performance Indicators (KPIs)
+  * Developing a **Business Intelligence Dashboard** to Monitor the Status of Key Performance Indicators (KPIs)
   * Improving the Performance of the Facilities by **Developing Business Processes** to Monitor the Major Workflows Such as Production, Maintenance, Inventory, Human Resources, etc
   * Developing An Extensive Budget Plan for Each of Subsidiaries Within the Enterprise to Determine the **Break-even Point**
   
