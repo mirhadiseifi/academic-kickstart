@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   title = "Applied Text Mining in Python"
   url = ""
   certificate_url = ""
-  date_start = "2019-09-15"
+  date_start = "2019-09-17"
   date_end = ""
   description = """
   * Apply basic natural language processing methods
@@ -95,16 +95,31 @@ date_format = "Jan 2006"
    [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Applied Text Mining in Python"
+  title = "Applied Social Network Analysis in Python"
   url = ""
   certificate_url = ""
-  date_start = "2019-09-15"
+  date_start = "2019-09-20"
   date_end = ""
   description = """
-  * Apply basic natural language processing methods
-  * Describe the nltk framework for manipulating text
-  * Understand how text is handled in Python
-  * Write code that groups documents by topic
+  * Analyze the connectivity of a network
+  * Measure the importance or centrality of a node in a network
+  * Predict the evolution of networks over time
+  * Represent and manipulate networked data using the NetworkX library
+  """
+  
+     [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Social Network Analysis in Python"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-20"
+  date_end = ""
+  description = """
+  * Create and access a database instance on cloud
+  * Write basic SQL statements: CREATE, DROP, SELECT, INSERT, UPDATE, DELETE
+  * Filter, sort, group results, use built-in functions, access multiple tables
+  * Access databases from Jupyter using Python and work with real world datasets
   """
   
 +++
