@@ -54,5 +54,9 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Mining" 
 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Text Mining" 
   
 +++
