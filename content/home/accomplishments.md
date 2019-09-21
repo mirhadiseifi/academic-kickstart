@@ -107,7 +107,7 @@ date_format = "Jan 2006"
   * Represent and manipulate networked data using the NetworkX library
   """
   
-     [[item]]
+  [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Databases and SQL for Data Science by IBM"
