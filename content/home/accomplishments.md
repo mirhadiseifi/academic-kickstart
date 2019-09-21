@@ -110,7 +110,7 @@ date_format = "Jan 2006"
      [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Applied Social Network Analysis in Python"
+  title = "Databases and SQL for Data Science by IBM"
   url = ""
   certificate_url = ""
   date_start = "2019-10-20"
