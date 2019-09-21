@@ -79,7 +79,10 @@ user_groups:
 - Visitors
 ---
 
-Hadi is a third year Ph.D. student at Mississippi State University where he is majoring in **Data Analytics** in the field of aditive manufacturing. His interest in Data Analytics started back in bachelor studies when he had the opportunity to enroll in Java advanced programming course. He learned about the advanced techniques in programming such as Object oriented programming, Inhertence, Polymorphism, GUI and etc. To broaden his knowledge in data analytics, he join the Additive Aanufacturing lab in Mississippi State University to have hand on experince with uniques data collections.
+Hadi is a third-year Ph.D. student at Mississippi State University where he is majoring in **Data Analytics** in the field of additive manufacturing. His interest in Data Analytics started back in bachelor studies when he had the opportunity to enroll in Java advanced programming course. He learned about the advanced techniques in programming such as Object-oriented programming, Inheritance, Polymorphism, GUI and etc. To broaden his knowledge in data analytics, he joined the Additive Manufacturing lab at Mississippi State University to have hand-on experience with uniques data collections. 
+
+To further deepen his knowledge in Data Analytics and Machine learning, he pursed a minor in  **Computer Science and Engineering** to learn the novel techniques in machine learning, both mathematical and experimental aspects. 
+
 
 
 
