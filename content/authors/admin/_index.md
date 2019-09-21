@@ -79,8 +79,8 @@ user_groups:
 - Visitors
 ---
 
-I received my BSc and MSc in industrial Engineering from Sharif University of Technology. My enthusiasm and advanced skills in mathematical modeling and programming led me to the additive manufacturing lab under supervision of Dr Linkan Bian. 
+Hadi is a third year Ph.D. student at Mississippi State University where he is majoring in **Data Analytics** in the field of aditive manufacturing. His interest in Data Analytics started back in bachelor studies when he had the opportunity to enroll in Java advanced programming course. He learned about the advanced techniques in programming such as Object oriented programming, Inhertence, Polymorphism, GUI and etc. To broaden his knowledge in data analytics, he join the Additive Aanufacturing lab in Mississippi State University to have hand on experince with uniques data collections.
 
-Currently, I am a PhD student in additive manufacturing (AM) lab at Mississippi State University. I have been incorporating machine learning techniques, learned through **Minor in Computer Science**, in the field of Additive Manufacturing to develop process-structure models. 
+
 
 
