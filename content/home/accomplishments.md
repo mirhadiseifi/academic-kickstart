@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-06-11"
-  date_end = "2019-07-15"
+  date_end = ""
   description = """
   * Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, SVMs
   * Unsupervised Learning: K-means, PCA, Anomaly Detection
@@ -35,16 +35,30 @@ date_format = "Jan 2006"
   [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Applied Data Science with Python"
+  title = "Introduction to Data Science in Python"
   url = ""
   certificate_url = ""
   date_start = "2019-07-15"
   date_end = ""
   description = """
-  * Analyze the connectivity of a social network
-  * Discern whether a data visualization is good or bad
-  * Conduct an inferential statistical analysis
-  * Enhance a data analysis with applied machine learning
+  * Describe common Python functionality and features used for data science
+  * Explain distributions, sampling, and t-tests
+  * Query DataFrame structures for cleaning and processing
+  * Understand techniques such as lambdas and manipulating csv files
   """
-  
+ 
+   [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Plotting, Charting & Data Representation in Python"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-15"
+  date_end = ""
+  description = """
+  * Create a visualization using matplotlb
+  * Describe what makes a good or bad visualization
+  * Identify the functions that are best for particular problems
+  * Understand best practices for creating basic charts
+  """
 +++
