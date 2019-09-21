@@ -61,4 +61,50 @@ date_format = "Jan 2006"
   * Identify the functions that are best for particular problems
   * Understand best practices for creating basic charts
   """
+  
+   [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Machine Learning in Python"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-08-15"
+  date_end = ""
+  description = """
+  * Build features that meet analysis needs
+  * Create and evaluate data clusters
+  * Describe how machine learning is different than descriptive statistics
+  * Explain different approaches for creating predictive models
+  """
+  
+   [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Text Mining in Python"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-15"
+  date_end = ""
+  description = """
+  * Apply basic natural language processing methods
+  * Describe the nltk framework for manipulating text
+  * Understand how text is handled in Python
+  * Write code that groups documents by topic
+  """
+ 
+   [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Text Mining in Python"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-15"
+  date_end = ""
+  description = """
+  * Apply basic natural language processing methods
+  * Describe the nltk framework for manipulating text
+  * Understand how text is handled in Python
+  * Write code that groups documents by topic
+  """
+  
 +++
