@@ -34,7 +34,7 @@ education:
   - course: Minor in Computer Science & Engineering
     institution: Mississippi State University
     year: 2020
-  - course: M.Sc. and BSc in Industrial Engineering
+  - course: M.Sc. in Industrial Engineering
     institution: Sharif University of Technology
     year: 2017
   - course: B.Ss. in Industrial Engineering
