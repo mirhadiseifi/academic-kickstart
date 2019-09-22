@@ -25,6 +25,8 @@ interests:
 - Data Mining
 - Artificial Intelligence
 - Mathematical Modeling
+- Text Mining
+- Social Network Analysis
 
 education:
   courses:
