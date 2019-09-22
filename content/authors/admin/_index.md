@@ -79,9 +79,10 @@ user_groups:
 - Visitors
 ---
 
-Hadi is a third-year Ph.D. student at Mississippi State University where he is majoring in **Data Analytics** in the field of additive manufacturing. His interest in Data Analytics started back in bachelor studies when he had the opportunity to enroll in Java advanced programming course. He learned about the advanced techniques in programming such as Object-oriented programming, Inheritance, Polymorphism, GUI and etc. To broaden his knowledge in data analytics, he joined the Additive Manufacturing lab at Mississippi State University to have hand-on experience with uniques data collections and modeling challenges. 
+Hadi is a third-year Ph.D. student at Mississippi State University.  Hadi's interest is in **Data Analytics** and Data Mining. His curiosity led him to join the Additive Manufacturing Laboratory under the supervision of Professor Linkan Bian.  His focus in the lab is data processing and mathematical modeling to facilitate industrial adoption of AM processes.
+Hadi had the opportunity to learn to code in Java in his bachelor studies, where he learned advanced techniques such as Object-oriented programming, Inheritance, Polymorphism, GUI and etc. He later pursued his interest in Machine learning and AI techniques by getting a **minor in Computer Science and Engineering** at Mississippi State University.  
+In research, Hadi focuses on developing mathematical models as well as experiments and empirical works.  Hadi aspires to pursue a career as a Data Scientist, to model complex mathematical problems.
 
-To further deepen his knowledge in Data Analytics and Machine learning, he pursed a minor in  **Computer Science and Engineering** to learn the novel techniques in machine learning, both mathematical and experimental aspects. Minor in Computer Science and multiple online courses have helped him to be a successful researcher in the field of Data Analytics. Hadi aspires to pursue a career as a Data Scientist, to model complex mathematical problems.
 
 
 
