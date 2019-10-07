@@ -98,7 +98,7 @@ date_format = "Jan 2006"
   title = "Applied Social Network Analysis in Python"
   url = ""
   certificate_url = ""
-  date_start = "2019-10-6"
+  date_start = "2019-10-06"
   date_end = ""
   description = """
   * Analyze the connectivity of a network
