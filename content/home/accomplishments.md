@@ -122,4 +122,19 @@ date_format = "Jan 2006"
   * Access databases from Jupyter using Python and work with real world datasets
   """
   
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Data Science with Python Specialization"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/TPEVX76EMMQ3"
+  date_start = "2019-10-07"
+  date_end = ""
+  description = """
+  * Enhance a data analysis with applied machine learning
+  * Analyze the connectivity of a network
+  * Conduct an inferential statistical analysis
+  * Discern whether a data visualization is good or bad
+  """
+  
 +++
