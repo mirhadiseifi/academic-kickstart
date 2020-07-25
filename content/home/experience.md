@@ -30,6 +30,21 @@ date_format = "Jan 2006"
   * Incorporating Novel **Machine Learning** Techniques to Model the Process-Structure Relationship in Laser-Based Additive Manufacturing
   * Developing **Applications** for Monitoring Additive Manufacturing Processes
   """
+[[experience]]
+  title = "Data Science Intern"
+  company = "Campbell's Soup Company"
+  company_url = "campbells.com/campbell-soup/"
+  location = "New Jersey"
+  date_start = "2020-05-18"
+  date_end = "2020-08-14"
+  description = """
+  Responsibilities include:
+  
+  * Identifying effective features correlated to machine breakdown/failure of bread supply chain through **database integration** on **snowflake**
+  * **Mathematical modeling** of the bread production line to minimize the idleness/breakdown percentage of machines
+  * Building demonstrative reports to represent the outputs of the mathematical modeling and data integration using **Microsoft Power BI** dashboards
+  * Developing an **embedded python code** to create customized stacked waterfall chart module inside **Microsoft Power BI**
+  """
 
 [[experience]]
   title = "Business Intelligence Analyst and SharePoint Developer"
