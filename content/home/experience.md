@@ -17,18 +17,37 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Data Science Intern"
+  company = "Campbell's Soup Company"
+  company_url = "campbells.com/campbell-soup/"
+  location = "New Jersey"
+  date_start = "2021-01-11"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data processing and report building using Pandas, SQL, and Microsoft Power BI
+  * Building interactive dashboards through Python Dash and deploying to dash enterprise portal
+  * Deploying Azure Functions to trigger the applications developed in Azure DevOps Server
+  * Version controlling the progress and changes in applications and projects using Git Bash, Sourcetree, and Azure DevOps
+  * Developing a mathematical model to predict the purchasing probability of new products based on reviews from old similar products
+  """
+  
 [[experience]]
   title = "Research Assistant"
   company = "Mississippi State University"
   company_url = "msstate.edu"
   location = "Mississippi"
-  date_start = "2017-07-11"
-  date_end = ""
+  date_start = "2017-08-11"
+  date_end = "2020-12-31"
   description = """
   Responsibilities include:
   
-  * Incorporating Novel **Machine Learning** Techniques to Model the Process-Structure Relationship in Laser-Based Additive Manufacturing
-  * Developing **Applications** for Monitoring Additive Manufacturing Processes
+  * Processing and extracting valuable information from thermal images using image processing, feature extraction, and data reduction techniques to demonstrate the build process
+  * Developing novel mathematical models using supervised and unsupervised learning approaches to monitor the Process Defect Property relationship
+  * Developing monitoring applications in order to facilitate the wider industrial adoption of additive manufacturing techniques
   """
 [[experience]]
   title = "Data Science Intern"
