@@ -86,7 +86,7 @@ user_groups:
 - Visitors
 ---
 
-Hadi is a forth-year Ph.D. student at Mississippi State University. Hadi's interest is in **Data Analytics** and Data Mining. His curiosity led him to join the Additive Manufacturing Laboratory under the supervision of Professor Linkan Bian. He is currently a data science intern at Campbell Soup Company.
+Hadi is a fourth-year Ph.D. student at Mississippi State University. Hadi's interest is in **Data Analytics** and Data Mining. His curiosity led him to join the Additive Manufacturing Laboratory under the supervision of Professor Linkan Bian. He is currently a data science intern at Campbell Soup Company.
 
 His focus in the lab is data processing and mathematical modeling to facilitate industrial adoption of AM processes.
 In research, Hadi works on developing mathematical models (using Python and Maltab) as well as experiments and empirical works. 
